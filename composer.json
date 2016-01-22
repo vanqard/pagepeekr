@@ -1,0 +1,21 @@
+{
+    "name": "vanqard/pagepeekr",
+    "description": "A packaged client for the pagepeeker.com service",
+    "require": {
+        "guzzlehttp/guzzle": "^6.1",
+        "guzzlehttp/streams": "^3.0"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Thunder Raven-Stoker",
+            "email": "thunder@vanqard.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "Vanqard\\PagePeekr" : "src/"
+        }
+    }
+}
