@@ -45,4 +45,4 @@ This code is far from being production ready. Please do feel free to experiment 
 
 ## Security
 
-If you find any security issues with this package, please contact the author directly here: [Thunder Raven-Stoker](mailt:thunder@vanqard.com)
+If you find any security issues with this package, please contact the author directly here: <thunder@vanqard.com>
